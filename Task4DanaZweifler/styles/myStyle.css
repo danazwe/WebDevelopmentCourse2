@@ -1,0 +1,79 @@
+body {
+    text-align: right;
+    margin: 30px 50px 30px 50px;
+    background-image: url('../picture/106919.jpg');
+}
+.korot {
+    text-align: center;
+    color: #B78338;
+    font-size: 35pt;
+}
+
+.dana{
+    font-size:25pt;
+    text-align:center;
+    margin:10px 10px;
+    color:#40686A;
+}
+
+.kotert {
+    font-size: 20pt;
+    font-weight: bold;
+    margin: 15px 15px;
+    color: #915C4C;
+}
+
+.kotert1 {
+    font-size: 20pt;
+    font-weight: bold;
+    margin: 15px 15px;
+    color: #915C4C;
+}
+
+.tata {
+    direction: rtl;
+    text-align: right;
+    list-style-type: square;
+    margin:8px 15px;
+}  
+
+p{
+    margin:8px 15px;
+}
+
+#shalom{
+    font-size:14pt;
+}
+
+a{
+    margin:8px;
+
+}
+
+ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    float: right;
+}
+nav ul li a {
+    display: block;
+    background-color: #2F1812;
+    color: white;
+    width: 230px;
+    height: 30px;
+    padding-top:5px;
+    text-decoration: none;
+    text-align: center;
+    margin:0px 0px;
+}
+
+nav ul li a:hover {
+    background-color:#915C4C;
+    }
+
+nav ul li a:active {
+    background-color:#915C4C;
+    }
